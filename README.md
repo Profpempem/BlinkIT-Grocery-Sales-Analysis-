@@ -49,14 +49,6 @@ This Excel-powered analysis focuses on identifying trends and sales drivers with
 
 ---
 
-## 📂 Project Files
-
-- `BlinkIT Grocery Data Excel.xlsx` – Raw data and dashboard  
-- `Dashboard.png` – Snapshot of the interactive Excel dashboard  
-- `README.md` – Project documentation
-
----
-
 ## 📸 Dashboard Preview
 
 !Dashboard Preview(https://github.com/Profpempem/BlinkIT-Grocery-Sales-Analysis-/blob/main/Dashboard.png)
